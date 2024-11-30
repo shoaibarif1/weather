@@ -26,3 +26,13 @@ This is a simple weather app that allows users to search for a city and view its
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+   
+### How to Use:
+- Replace placeholders like `your-api-key`, `your-username`, and `your-email@example.com` with actual values.
+- If you have screenshots of the app, save them in the `images` folder and update the paths in the README. 
+
+Let me know if you need further adjustments!
+
+## License 📜
+- This project is licensed under the MIT License. You are free to use, modify, and distribute it for both personal and commercial use.
+
